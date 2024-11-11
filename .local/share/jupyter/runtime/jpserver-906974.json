@@ -1,0 +1,13 @@
+{
+  "base_url": "/node/udc-aw32-21c0/38494/",
+  "hostname": "localhost",
+  "password": true,
+  "pid": 906974,
+  "port": 38494,
+  "root_dir": "/home/qck2qg",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:38494/node/udc-aw32-21c0/38494/",
+  "version": "2.7.1"
+}

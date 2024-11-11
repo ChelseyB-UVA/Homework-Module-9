@@ -1,0 +1,11 @@
+c.NotebookApp.ip = '*'
+c.NotebookApp.port = 8583
+c.NotebookApp.port_retries = 0
+c.NotebookApp.password = u'sha1:CbiqmjceZpa46ptX:89f105d3b5339f7f2bedfdad7eeb030dd9eb639c'
+c.NotebookApp.base_url = '/node/udc-aw32-10c0/8583/'
+c.NotebookApp.open_browser = False
+c.NotebookApp.allow_origin = '*'
+c.NotebookApp.notebook_dir = '/home/qck2qg'
+c.NotebookApp.disable_check_xsrf = True
+c.KernelSpecManager.ensure_native_kernel = False
+c.NotebookApp.iopub_data_rate_limit = 10000000
